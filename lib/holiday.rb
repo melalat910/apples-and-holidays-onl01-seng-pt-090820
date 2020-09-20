@@ -94,4 +94,3 @@ end
     end
   end
   holidays_with_bbq
-end
